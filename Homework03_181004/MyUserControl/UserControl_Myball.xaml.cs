@@ -19,7 +19,7 @@ namespace Homework03_181004.MyUserControl
     /// <summary>
     /// UserControl_Myball.xaml 的互動邏輯
     /// </summary>
-    public partial class UserControl_Myball : Window
+    public partial class UserControl_Myball : UserControl
     {
         public UserControl_Myball()
         {

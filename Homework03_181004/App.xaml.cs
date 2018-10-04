@@ -16,7 +16,7 @@ namespace Homework03_181004
     {
         protected override void OnStartup(StartupEventArgs e)
         {
-            Window w = new UserControl_Myball();
+            Window w = new MainWindow();
             w.Show();
             base.OnStartup(e);
         }

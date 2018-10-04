@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\III\Desktop\Homework03_181004\Homework03_181004\obj\Debug\
+C:\Users\TEST\Documents\GitHub\Homework03_UserControls\Homework03_181004\obj\Debug\
 Homework03_181004
 none
 false
 DEBUG;TRACE
-C:\Users\III\Desktop\Homework03_181004\Homework03_181004\App.xaml
+C:\Users\TEST\Documents\GitHub\Homework03_UserControls\Homework03_181004\App.xaml
 31842944730
 
-11-1196562910
+11961957849
 131569487696
 MainWindow.xaml;MyUserControl\UserControl_Myball.xaml;MyUserControl\UserControl_MyClock.xaml;
 
-False
+True
 
